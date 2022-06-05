@@ -5,3 +5,4 @@
 * https://wonderful-griffin-bcf74b.netlify.app/ <br>
 ### Proyectos de la clase 2: 
 * https://incomparable-gaufre-997556.netlify.app/
+* https://stalwart-salamander-684cec.netlify.app/
